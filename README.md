@@ -1,1 +1,1 @@
-# parking-jpa-api
+# parking-jpa-api - crud em banco postgress
